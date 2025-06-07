@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "2025-06-06T21:13:11.178Z",
+    "userName": "Emidio Fonteles",
+    "score": 1,
+    "totalQuestions": 1,
+    "timeTakenSeconds": 3,
+    "answers": {
+      "372": {
+        "questionEnunciado": "A fusão é o processo de passagem de qual estado físico para qual?",
+        "userAnswerKey": "b",
+        "userAnswerText": "Sólido para líquido",
+        "correctAnswerKey": "b",
+        "correctAnswerText": "Sólido para líquido",
+        "isCorrect": true
+      }
+    }
+  }
+]
